@@ -1,2 +1,1 @@
-# carousel
-简单轮播图
+# carousel --简单轮播图
